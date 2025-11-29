@@ -1,4 +1,4 @@
-# Hälsostudie – Del 2
+# Hälsostudie – Del1 och Del 2
 
 Detta projekt bygger vidare på Del 1 och innehåller följande förbättringar:
 
